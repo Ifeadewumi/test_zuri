@@ -1,1 +1,2 @@
-"#test_zuri \n Let's try some funny things" 
+#test_zuri 
+Let's try some funny things
